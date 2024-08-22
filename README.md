@@ -10,7 +10,7 @@
 - Sharing updates on <a href="www.linkedin.com/in/siddharth-darkunde-53887b321">LinkedIn</a> 😇
 <br />
 
-- Checkout my Portfolio <a href="#> Portfolio</a> 💝
+- Checkout my Instagarm <a href="https://www.instagram.com/siddharthd_99/"> account</a> 💝
 <br />
 <br />
 
@@ -19,13 +19,13 @@
 ```javascript
 const aniket = {
   pronouns: "He" | "Him",
-  code: ["C/C++", "HTML", "CSS", "Bootstrap", "JavaScript", "jQuery"],
+  code: ["C/C++", "HTML", "CSS", "java", "JavaScript", "MySQL"],
   askMeAbout: ["DSA", "Web Dev", "Tech"],
   technologies: {
-    frontEnd: {
-      js: ["React"],
-    },
-  },
+  frontEnd: {
+              Html, CSS, js: ["_"],
+            },
+            },
   AboutMyself: "I am  pursuing Masters in Computer Application(MCA) from Savitribai Phule Pune University, Pune.",
   intresedIn: "I am proficient in Problem Solving and Frontend Web Development",
   openSource: "🚀 I am also an open-source enthusiast. I love how collaboration and knowledge sharing happened through open-source communities.",

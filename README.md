@@ -9,7 +9,6 @@
 
 - Sharing updates on <a href="www.linkedin.com/in/siddharth-darkunde-53887b321">LinkedIn</a> 😇
 <br />
-
 - Checkout my Instagarm <a href="https://www.instagram.com/siddharthd_99/"> account</a> 💝
 <br />
 <br />

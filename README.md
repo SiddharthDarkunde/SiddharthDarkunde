@@ -9,6 +9,7 @@
 
 - Sharing updates on <a href="www.linkedin.com/in/siddharth-darkunde-53887b321">LinkedIn</a> 😇
 <br />
+- Have a look at my <a href="www.linkedin.com/in/siddharth-darkunde-53887b321">Portfolio</a> 🎯
 <br />
 <br />
 

@@ -7,8 +7,8 @@
 <h2>I'm Siddharth !! Like to Connect me ?? </h2>
 <img align='right' src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="230">
 
-- Sharing updates on <a href="www.linkedin.com/in/siddharth-darkunde-53887b321">LinkedIn</a> 😇
-- Have a look at my <a href="www.linkedin.com/in/siddharth-darkunde-53887b321">Portfolio</a> 🎯
+- Sharing updates on <a href="https://www.linkedin.com/in/siddharth-darkunde-53887b321">LinkedIn</a> 😇
+- Have a look at my <a href="https://portfolio-siddharthdarkunde-acaeduins-projects.vercel.app/">Portfolio</a> 🎯
 <br />
 <br />
 <br />

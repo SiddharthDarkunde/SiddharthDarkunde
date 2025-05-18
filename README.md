@@ -20,10 +20,7 @@ const Siddharth = {
   pronouns: "He" | "Him",
   code: ["C/C++", "HTML", "CSS", "java", "JavaScript", "MySQL"],
   askMeAbout: ["DSA", "Web Dev", "Tech"],
-  technologies: {
-  frontEnd: {
-              Html, CSS, js: ["_"],
-            },
+  technologies: { {Java,SQL,Html, CSS, js: ["_"] },
             },
   AboutMyself: "I am  pursuing Masters in Computer Application(MCA) from Savitribai Phule Pune University, Pune.",
   intresedIn: "I am proficient in Problem Solving and Frontend Web Development",

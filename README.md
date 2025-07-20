@@ -8,7 +8,7 @@
 <img align='right' src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="230">
 
 - Sharing updates on <a href="https://www.linkedin.com/in/siddharth-darkunde-53887b321">LinkedIn</a> 😇
-- Have a look at my <a href="https://portfolio-siddharthdarkunde-acaeduins-projects.vercel.app/">Portfolio</a> 🎯
+- Have a look at my <a href="https://portfolio-uav2.vercel.app/">Portfolio</a> 🎯
 <br />
 <br />
 <br />
